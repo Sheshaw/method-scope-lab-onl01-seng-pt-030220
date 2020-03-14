@@ -1,5 +1,4 @@
 
-
 def catch_phrase(argu = "It's-a me, Mario!" )
    puts argu
    # return argu
